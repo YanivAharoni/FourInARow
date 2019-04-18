@@ -1,0 +1,14 @@
+Create an 2D array which holds the board state.
+(don't forget to initialize the board before using it)
+
+1) Write code to display the board (from the array).
+(Test whether everything is displayed correctly).
+
+2) Write code to accept user input.
+
+3) Write code which processes the user input,
+and places his move at the correct place on the game board (= at the correct place in the array).
+
+4) Add the real gameplay:
+
+Add some other custom features.
